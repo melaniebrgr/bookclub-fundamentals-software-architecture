@@ -12,7 +12,7 @@ We'll meet every two weeks for 30 min to talk about the chapters. Each meeting w
 
 | Chapters | Topic                          | Pages          | Date                           | Reviewer           |
 | -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-| 1,2|Introduction, Architectural thinking|34|TBD|                    |
+| 1,2|Introduction, Architectural thinking|34|TBD 1:30PM EST, 7:30PM CET|                    |
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
