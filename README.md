@@ -45,8 +45,6 @@ We'll meet every two weeks for 30 min to talk about the chapters. Each meeting w
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
 
-### Locations
-
 **Meeting Room:** Google Hangout
 
 ### Useful resources:
