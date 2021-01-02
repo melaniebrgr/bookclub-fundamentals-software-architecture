@@ -51,7 +51,7 @@ We'll meet every two weeks for 30 min to talk about the chapters. Each meeting w
 
 ### Useful resources:
 
-- [Chapter summaries](./chapter-summaries.md)
+- [Chapter summaries](./summaries)
 - [Architecture katas](http://fundamentalsofsoftwarearchitecture.com/katas/)
 
 ### Contributors:
