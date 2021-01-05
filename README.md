@@ -12,7 +12,8 @@ We'll meet every three weeks for 0.5-1hr to discuss the chapters. A meeting typi
 
 | Chapters | Topic                          | Pages          | Date                           | Reviewer           |
 | -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-| 1,2|Introduction, Architectural thinking|34|TBD 1:30PM EST, 7:30PM CET|                    |
+| N/A|Welcome and kickoff!| |TBD ~1PM EST, ~7PM CET||
+| 1,2|Introduction, Architectural thinking|34| TBD||
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
@@ -26,23 +27,11 @@ We'll meet every three weeks for 0.5-1hr to discuss the chapters. A meeting typi
 | Chapters | Topic                          | Pages          | Date                           | Reviewer           |
 | -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
 |          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
 
 #### Part 3
 
 | Chapters | Topic                          | Pages          | Date                           | Reviewer           |
 | -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
 
 **Meeting Room:** Google Hangout
