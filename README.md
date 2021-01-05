@@ -36,7 +36,7 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 | -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
 |          |                                |                |                                |                    |
 
-**Meeting Room:** Google Hangout
+**Meeting Room:** Find the meeting link in the calendar invite!
 
 ### Useful resources:
 
