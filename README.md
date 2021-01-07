@@ -42,9 +42,3 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 - [Chapter summaries](https://github.com/melaniebrgr/bookclub-fundamentals-software-architecture/tree/main/summaries)
 - [Architecture katas](http://fundamentalsofsoftwarearchitecture.com/katas/)
-
-### Members (so far!):
-
-- [Cecilia Hunka](https://github.com/chnka)
-- [Pavel Ivanov](https://github.com/pablospaniard)
-- [Willian Corrêa](https://github.com/wgcorrea)
