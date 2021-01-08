@@ -14,8 +14,8 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 | Chapters | Topic                          | Pages          | Date                           | Meeting recorder   |
 | -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-| N/A|Welcome and kickoff!|N/A|TBD ~1PM EST, ~7PM CET|N/A|
-| 1,2|Introduction, Architectural thinking|34|TBD|TBD|
+| - |Welcome and kickoff!| - |TBD ~1PM EST, ~7PM CET| - |
+| 1, 2|Introduction, Architectural thinking|34|TBD|TBD|
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
 |          |                                |                |                                |                    |
