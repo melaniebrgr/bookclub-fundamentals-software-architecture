@@ -30,6 +30,5 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 ### Resources:
 
-- [Chapter summaries](https://github.com/melaniebrgr/bookclub-fundamentals-software-architecture/tree/main/summaries)
 - [Architecture katas](http://fundamentalsofsoftwarearchitecture.com/katas/)
 - [Developer to Architect](https://developertoarchitect.com/)
