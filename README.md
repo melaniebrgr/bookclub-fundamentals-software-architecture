@@ -10,6 +10,7 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 
 ### Book sources:
+
 - [oreilly.com](https://shop.aer.io/oreilly/p/fundamentals-of-software/9781492043454-9149)
 - [Amazon.ca](https://www.amazon.ca/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/ref=sr_1_1?crid=2U88GYSALIFTY&dchild=1&keywords=fundamentals+of+software+architecture+an+engineering+approach&qid=1610570676&sprefix=fundamentals+of+software+%2Caps%2C233&sr=8-1) (Canada)
 - [Amazon.nl](https://www.amazon.nl/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/ref=sr_1_1?__mk_nl_NL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Fundamentals+of+Software+Architecture&qid=1610570710&sr=8-1) (Netherlands)
