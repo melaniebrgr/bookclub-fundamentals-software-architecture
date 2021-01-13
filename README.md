@@ -23,7 +23,7 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 | Topic | Date | Chapters | Pages | Syllabus | Summary |
 | ----- | ---- | -------- | ----- | -------- | ------- |
 | Welcome and kickoff | TBD ~1PM EST, ~7PM CET | - | - | - | - |
-| Introduction, Architectural thinking | TBD | 1, 2 | 1 - 36 | [meeting 1](./syllabus.md#meeting-2) | [chapter 1](./summaries/chapter1.md), [chapter 2](./summaries/chapter2.md) |
+| Introduction, Architectural thinking | TBD | 1, 2 | 1 - 36 | [meeting 2](./syllabus.md#meeting-2) | [chapter 1](./summaries/chapter1.md), [chapter 2](./summaries/chapter2.md) |
 
 
 **Meeting Room:** Find the meeting link in the calendar invite
