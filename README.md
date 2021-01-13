@@ -12,31 +12,13 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 #### Part 1
 
-| Chapters | Topic                          | Pages          | Date                           | Meeting recorder   |
-| -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-| - |Welcome and kickoff!| - |TBD ~1PM EST, ~7PM CET| - |
-| 1, 2|Introduction, Architectural thinking|34|TBD|TBD|
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
-|          |                                |                |                                |                    |
+| Chapters | Topic | Pages | Date | Syllabus | Summary |
+| -------- | ----- | ----- | ---- | -------- | ------- |
+| - | Welcome and kickoff | - | TBD ~1PM EST, ~7PM CET | - | - |
+| 1, 2 | Introduction, Architectural thinking | 1 - 36 | TBD | [meeting 1](./syllabus/meeting1.md) | [chapter 1](./summaries/chapter1.md), [chapter 2](./summaries/chapter2.md) |
 
-#### Part 2
 
-| Chapters | Topic                          | Pages          | Date                           | Meeting recorder   |
-| -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-|          |                                |                |                                |                    |
-
-#### Part 3
-
-| Chapters | Topic                          | Pages          | Date                           | Meeting recorder   |
-| -------- | ------------------------------ | -------------- | ------------------------------ | ------------------ |
-|          |                                |                |                                |                    |
-
-**Meeting Room:** Find the meeting link in the calendar invite!
+**Meeting Room:** Find the meeting link in the calendar invite
 
 ### Useful resources:
 
