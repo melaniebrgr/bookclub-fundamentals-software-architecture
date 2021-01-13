@@ -1,6 +1,6 @@
 # Syllabus: Fundamentals of Software Architecture
 
-## Meeting 1
+## Meeting 2
 
 ### Required:
 
