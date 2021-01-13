@@ -9,5 +9,6 @@
 ### Supplementary:
 
 - "Lesson 93 - What is Software Architecture", [video](https://www.youtube.com/watch?v=U6rfJjd8714&feature=emb_logo)
+- "Who needs an architect?", [whitepaper](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
 
