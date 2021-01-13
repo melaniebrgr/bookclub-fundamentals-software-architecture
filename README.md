@@ -20,10 +20,10 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 #### Part 1
 
-| Chapters | Topic | Pages | Date | Syllabus | Summary |
-| -------- | ----- | ----- | ---- | -------- | ------- |
-| - | Welcome and kickoff | - | TBD ~1PM EST, ~7PM CET | - | - |
-| 1, 2 | Introduction, Architectural thinking | 1 - 36 | TBD | [meeting 1](./syllabus.md#meeting-1) | [chapter 1](./summaries/chapter1.md), [chapter 2](./summaries/chapter2.md) |
+| Topic | Date | Chapters | Pages | Syllabus | Summary |
+| ----- | ---- | -------- | ----- | -------- | ------- |
+| Welcome and kickoff | TBD ~1PM EST, ~7PM CET | - | - | - | - |
+| Introduction, Architectural thinking | TBD | 1, 2 | 1 - 36 | [meeting 1](./syllabus.md#meeting-1) | [chapter 1](./summaries/chapter1.md), [chapter 2](./summaries/chapter2.md) |
 
 
 **Meeting Room:** Find the meeting link in the calendar invite
