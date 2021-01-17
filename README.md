@@ -22,7 +22,7 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 
 | Topic | Date | Chapters | Pages | Syllabus | Summary |
 | ----- | ---- | -------- | ----- | -------- | ------- |
-| Welcome and kickoff | Wed. Jan 27, 1:30 PM EST / 7:30 CET | - | - | - | - |
+| Welcome and kickoff | Wed. Jan 27, 13:30 EST/19:30 CET | - | - | - | - |
 | Introduction, Architectural thinking | TBD | 1, 2 | 1 - 36 (36) | [meeting 2](./syllabus.md#meeting-2) | [chapter 1](./summaries/chapter1.md), [chapter 2](./summaries/chapter2.md) |
 | Modularity | TBD | 3 | 37 - 53 (17) | [meeting 3](./syllabus.md#meeting-3) | [chapter 3](./summaries/chapter3.md) |
 
