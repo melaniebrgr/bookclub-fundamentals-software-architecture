@@ -27,3 +27,9 @@
 ### Required Material:
 
 - Chapter 3
+
+### Supplementary Material (in progress):
+
+- Generic metrics, "Lesson 11 - Analyzing Architecture: Code Metrics", [video](https://www.youtube.com/watch?v=pELKNy8B5Nw)
+- Cohesion, "11.3 — Single Responsibility Principle", [video](https://www.youtube.com/watch?v=T44l5pmdHSM)
+- Coupling, "Lesson 29 - Component Coupling", [video](https://www.youtube.com/watch?v=lUrgx6UIsWk)
