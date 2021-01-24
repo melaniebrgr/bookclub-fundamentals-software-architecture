@@ -22,14 +22,21 @@
 - [ ] Of the eight expectations of an architect which, in your view, is the most interesting? The most challenging? Why?
 - [ ] How is one of the intersecting disciplines (engineering practices, devops, process, or data) impacting architecture on your project?
 
+#### Chapter 2
+- [ ] Does Rangle follow the traditional approach of architecture versus development on projects? Why or why not?
+- [ ] What are some ideas for efficiently, and continuously growing technical breadth?
+- [ ] How “hands-on” in the codebase is the solution architect and/or technical director on your project? What impact does it have?
+
 ## Meeting 3
 
 ### Required Material:
 
 - Chapter 3
 
-### Supplementary Material (in progress):
+### Supplementary Material (in progress, not finalized):
 
 - Generic metrics, "Lesson 11 - Analyzing Architecture: Code Metrics", [video](https://www.youtube.com/watch?v=pELKNy8B5Nw)
 - Cohesion, "11.3 — Single Responsibility Principle", [video](https://www.youtube.com/watch?v=T44l5pmdHSM)
 - Coupling, "Lesson 29 - Component Coupling", [video](https://www.youtube.com/watch?v=lUrgx6UIsWk)
+
+### Pre-meeting preparatory questions (in progress)
