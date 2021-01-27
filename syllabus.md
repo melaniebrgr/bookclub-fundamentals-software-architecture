@@ -27,6 +27,9 @@
 - [ ] What are some ideas for efficiently, and continuously growing technical breadth?
 - [ ] How “hands-on” in the codebase is the solution architect and/or technical director on your project? What impact does it have?
 
+#### Chapter 3
+- [ ] Do you have good supplementary resources for the metrics in chapter 3? Please share!
+
 ## Meeting 3
 
 ### Required Material:
