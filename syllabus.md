@@ -42,4 +42,8 @@
 - Cohesion, "11.3 — Single Responsibility Principle", [video](https://www.youtube.com/watch?v=T44l5pmdHSM)
 - Coupling, "Lesson 29 - Component Coupling", [video](https://www.youtube.com/watch?v=lUrgx6UIsWk)
 
-### Pre-meeting preparatory questions (in progress)
+## Meeting 4
+
+### Required Material:
+
+- Chapter 4 - 5
