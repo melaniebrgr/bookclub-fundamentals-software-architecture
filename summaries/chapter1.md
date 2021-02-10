@@ -19,7 +19,7 @@ How do you train for understanding and navigating politics (is it just convincin
 How do we keep current? Getting diverse exposer and experience is expected but would take a lot of intentional effort to get there?
 - Work on different projects
 - highscalability.com (?)
-- How to architect it (get link from Stephanie)
+- How to architect it, [video](https://www.youtube.com/watch?v=QOtCpD23118&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 - Spend an hour a day? 20 min a day? Bursts of high intensity learning. It depends. How surprising.
 
 How do you define breadth. If you can justify pros and cons for using one soluation over another, that is enough to have breadth. If you can implement that's depth.
