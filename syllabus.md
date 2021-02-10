@@ -40,6 +40,7 @@
 - "Lesson 11 - Analyzing Architecture: Code Metrics", [video](https://www.youtube.com/watch?v=pELKNy8B5Nw)
 - "Revisiting LCOM", [article](http://www.designsmells.com/articles/revisiting-lcom/)
 - "Clean Architecture", [excerpts on cohesion and coupling](https://drive.google.com/file/d/1HaeK71jRFpkvDqqwmnKfP28n50re4iTD/view?usp=sharing)
+- Modularity metrics (for playing with the numbers), [spreadsheet](https://github.com/melaniebrgr/bookclub-fundamentals-software-architecture/blob/main/assets/ch3-modularity-metrics.numbers)
 
 ### Pre-meeting preparatory questions:
 - [ ] How would you define a module in your own words? What is the difference between a module and a component?
