@@ -39,7 +39,7 @@
 ### Supplementary Material:
 - "Lesson 11 - Analyzing Architecture: Code Metrics", [video](https://www.youtube.com/watch?v=pELKNy8B5Nw)
 - "Revisiting LCOM", [article](http://www.designsmells.com/articles/revisiting-lcom/)
-- Excerpts from "Clean Architecture" to come
+- "Clean Architecture", [excerpts on cohesion and coupling](https://drive.google.com/file/d/1HaeK71jRFpkvDqqwmnKfP28n50re4iTD/view?usp=sharing)
 
 ### Pre-meeting preparatory questions:
 - [ ] How would you define a module in your own words? What is the difference between a module and a component?
