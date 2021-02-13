@@ -17,7 +17,8 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 | Welcome and kickoff | Wed. Jan 27, 13:30 EST/19:30 CET | - | - | - | - |
 | Introduction, architectural thinking | Wed. Feb 10, 13:30 EST/19:30 CET | 1, 2 | 1 - 36 (36) | [meeting 2](./syllabus.md#meeting-2) | [chapter 1 & 2](./summaries/chapter1.md) |
 | Modularity metrics | Mon. Feb 22, 13:30 EST/19:30 CET | 3 | 37 - 53 (17) | [meeting 3](./syllabus.md#meeting-3) | [chapter 3](./summaries/chapter3.md) |
-| Defining and identifying architectural characteristics | TBD | 4, 5 | 55-75 (21) | [meeting 4](./syllabus.md#meeting-4) | [chapter 4](./summaries/chapter4.md), [chapter 5](./summaries/chapter5.md) |
+| Defining and identifying architectural characteristics | TBD | 4, 5 | 55-75 (21) | [meeting 4](./syllabus.md#meeting-4) | [chapter 4 & 5](./summaries/chapter4.md) |
+| Measuring and scope of architectural characteristics | TBD | 6, 7 | 77-98 (22) | [meeting 5](./syllabus.md#meeting-5) | [chapter 6 & 7](./summaries/chapter6.md) |
 
 **Meeting Room:** Find the meeting link in the calendar invite
 
