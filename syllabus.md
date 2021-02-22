@@ -4,7 +4,7 @@
 
 ### Required Material:
 
-- Chapter 1 - 2
+- Chapters 1 - 2
 
 ### Supplementary Material:
 
@@ -63,4 +63,10 @@
 
 ### Required Material:
 
-- Chapter 4 - 5
+- Chapters 4 - 5
+- Take a look at Part3, the app we will be discussing in the meeting, [website](https://part3.ca/)
+- Understand what is an [architecture kata](http://fundamentalsofsoftwarearchitecture.com/katas/)
+
+### Supplementary Material:
+
+- "Architecture Characteristics", [video](https://www.developertoarchitect.com/lessons/lesson102.html)
