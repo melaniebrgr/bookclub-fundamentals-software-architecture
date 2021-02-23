@@ -34,4 +34,5 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 ### Resources:
 
 - [Architecture katas](http://fundamentalsofsoftwarearchitecture.com/katas/)
+- Neal's [Architecture katas](http://nealford.com/katas/)
 - [Developer to Architect](https://developertoarchitect.com/)
