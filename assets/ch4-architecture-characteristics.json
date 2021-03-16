@@ -1,0 +1,205 @@
+[
+  {
+    "term": "configurability",
+    "definition": "Ability for the end user to easily change aspects of the software's configuration (through usable interfaces).",
+    "pokemon": "Evee",
+    "ratings": [
+      {
+        "style": "layered",
+        "rating": 1
+      },
+      {
+        "style": "modular monolith",
+        "rating": 1
+      },
+      {
+        "style": "microkernel",
+        "rating": 4
+      },
+      {
+        "style": "microservices",
+        "rating": 3
+      },
+      {
+        "style": "service-based",
+        "rating": 2
+      },
+      {
+        "style": "service-oriented",
+        "rating": 1
+      },
+      {
+        "style": "event-driven",
+        "rating": 2
+      },
+      {
+        "style": "space-based",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "term": "recoverability",
+    "definition": "Business continuity requirements (e.g. in case of a disaster, how quickly is the system required to be online again?). This will affect the backup strategy and requirements for duplicated hardware.",
+    "pokemon": "Tyranitar",
+    "ratings": []    
+  },
+  {
+    "term": "archivability",
+    "definition": "Will the data need to be archived or deleted after a period of time? (For example, customer accounts are to be deleted after three months or marked as obsolete and archived to a secondary database for future access.)",
+    "pokemon": "Uxie",
+    "ratings": []       
+  },
+  {
+    "term": "scalability",
+    "definition": "Ability for the system to perform and operate as the number of users or requests increases.",
+    "pokemon": "Dugtrio",
+    "ratings": [
+      {
+        "style": "layered",
+        "rating": 1
+      },
+      {
+        "style": "modular monolith",
+        "rating": 1
+      },
+      {
+        "style": "microkernel",
+        "rating": 1
+      },
+      {
+        "style": "microservices",
+        "rating": 5
+      },
+      {
+        "style": "service-based",
+        "rating": 3
+      },
+      {
+        "style": "service-oriented",
+        "rating": 3
+      },
+      {
+        "style": "event-driven",
+        "rating": 5
+      },
+      {
+        "style": "space-based",
+        "rating": 5
+      }
+    ]       
+  },
+  {
+    "term": "availability",
+    "definition": "How long the system will need to be available (if 24/7, steps need to be in place to allow the system to be up and running quickly in case of any failure).",
+    "pokemon": "Rattata",
+    "ratings": []       
+  },
+  {
+    "term": "maintainability",
+    "definition": "How easy it is to apply changes and enhance the system?",
+    "pokemon": "Omanyte",
+    "ratings": []       
+  },
+  {
+    "term": "robustness",
+    "definition": "Ability to handle error boundary conditions while running if the internet connection goes down or if there's a power outage or hardware failure.",
+    "pokemon": "Wooloo",
+    "ratings": []       
+  },
+  {
+    "term": "upgradeability",
+    "definition": "Ability to easily/quickly upgrade from a previous version of this application/solution to a newer version on servers and clients.",
+    "pokemon": "Porygon2",
+    "ratings": []       
+  },
+  {
+    "term": "extensibility",
+    "definition": "How important it is to plug new pieces of functionality in.",
+    "pokemon": "Slowbro",
+    "ratings": []       
+  },
+  {
+    "term": "continuity",
+    "definition": "Disaster recovery capability.",
+    "pokemon": "Blissey",
+    "ratings": []       
+  },
+  {
+    "term": "usability / achievability",
+    "definition": "Level of training required for users to achieve their goals with the application/solution. Usability requirements need to be treated as seriously as any other architecture characteristic.",
+    "pokemon": "Bulbasaur, Squirtle and Charmander",
+    "ratings": []       
+  },
+  {
+    "term": "localization",
+    "definition": "Support for multiple languages on entry/query screens in data fields; on reports, multibyte character requirements and units of measure or currencies.",
+    "pokemon": "Jigglypuff",
+    "ratings": []       
+  },
+  {
+    "term": "authentication",
+    "definition": "Security requirements to ensure users are who they say they are.",
+    "pokemon": "Ditto",
+    "ratings": []       
+  },
+  {
+    "term": "performance",
+    "definition": "Includes stress testing, peak analysis, analysis of the frequency of functions used, capacity required, and response times. Performance acceptance sometimes reequires an exercise of its own, taking months to complete.",
+    "pokemon": "Accelgor",
+    "ratings": [
+      {
+        "style": "layered",
+        "rating": 2
+      },
+      {
+        "style": "modular monolith",
+        "rating": 3
+      },
+      {
+        "style": "microkernel",
+        "rating": 3
+      },
+      {
+        "style": "microservices",
+        "rating": 2
+      },
+      {
+        "style": "service-based",
+        "rating": 3
+      },
+      {
+        "style": "service-oriented",
+        "rating": 2
+      },
+      {
+        "style": "event-driven",
+        "rating": 5
+      },
+      {
+        "style": "space-based",
+        "rating": 5
+      }
+    ]       
+  },
+  {
+    "term": "reliability/safety",
+    "definition": "Assess if the system needs to be fail-safe, or if it is mission critical in a way that affects lives. If it fails, will it cost the company large sums of money?",
+    "pokemon": "Kangaskhan",
+    "ratings": []       
+  },
+  {
+    "term": "authorization",
+    "definition": "Security requirements to ensure users can access only certain functions within the application (by use case, subsystem, webpage, business rule, field level, etc.).",
+    "pokemon": "Mr. Mime",
+    "ratings": []       
+  },
+  {
+    "term": "",
+    "definition": "",
+    "pokemon": "",
+    "ratings": []       
+  }
+]
+
+// Feebas, Mudkip, Koffing, deerling, Voltorb (portability), Exeggcute (reuse)
