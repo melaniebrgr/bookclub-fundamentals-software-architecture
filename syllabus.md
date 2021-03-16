@@ -76,4 +76,8 @@
 ### Required Material:
 
 - Chapters 6 - 7
+
 ### Supplementary Material:
+
+- "Lesson 73 - Architecture Fitness Functions", [video](https://developertoarchitect.com/lessons/lesson73.html)
+- "Architectural Quanta and Granularity", [chapter](./assets/ch4-quanta.pdf)
