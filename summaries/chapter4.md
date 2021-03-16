@@ -11,6 +11,7 @@ Bring everyone together
 
 ## Users
 > The expected number and/or types of users of the system
+
 Consultant teams can vary widely, 20+ typically, smaller 10-5
 As a company there is a lot of variability 10 - 100
 Competitors have a cost per seat
