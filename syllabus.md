@@ -70,3 +70,10 @@
 ### Supplementary Material:
 
 - "Architecture Characteristics", [video](https://www.developertoarchitect.com/lessons/lesson102.html)
+
+## Meeting 5
+
+### Required Material:
+
+- Chapters 6 - 7
+### Supplementary Material:
