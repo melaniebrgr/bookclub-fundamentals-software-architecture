@@ -18,7 +18,7 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 | Introduction, architectural thinking | Wed. Feb 10, 13:30 EST/19:30 CET | 1, 2 | 1 - 36 (36) | [meeting 2](./syllabus.md#meeting-2) | [chapter 1 & 2](./summaries/chapter1.md) |
 | Modularity metrics | Mon. Feb 22, 13:30 EST/19:30 CET | 3 | 37 - 53 (17) | [meeting 3](./syllabus.md#meeting-3) | [chapter 3](./summaries/chapter3.md) |
 | Defining and identifying architectural characteristics | Tues. March 16, 14:00 EST/19:00 CET | 4, 5 | 55-75 (21) | [meeting 4](./syllabus.md#meeting-4) | [chapter 4 & 5](./summaries/chapter4.md) |
-| Measuring and scope of architectural characteristics | TBD | 6, 7 | 77-98 (22) | [meeting 5](./syllabus.md#meeting-5) | [chapter 6 & 7](./summaries/chapter6.md) |
+| Measuring and scope of architectural characteristics | Tues. March 30, 15:00 EST/21:00 CET | 6, 7 | 77-98 (22) | [meeting 5](./syllabus.md#meeting-5) | [chapter 6 & 7](./summaries/chapter6.md) |
 | Component design and organization | TBD | 8, 9 | 99-132 (32) | [meeting 6](./syllabus.md#meeting-6) | [chapter 8 & 9](./summaries/chapter8.md) |
 
 **Meeting Room:** Find the meeting link in the calendar invite
