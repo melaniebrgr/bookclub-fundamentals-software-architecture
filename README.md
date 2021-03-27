@@ -20,6 +20,7 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 | Defining and identifying architectural characteristics | Tues. March 16, 14:00 EST/19:00 CET | 4, 5 | 55-75 (21) | [meeting 4](./syllabus.md#meeting-4) | [chapter 4 & 5](./summaries/chapter4.md) |
 | Measuring and scope of architectural characteristics | Tues. March 30, 15:00 EST/21:00 CET | 6, 7 | 77-98 (22) | [meeting 5](./syllabus.md#meeting-5) | [chapter 6 & 7](./summaries/chapter6.md) |
 | Component design and organization | TBD | 8, 9 | 99-132 (32) | [meeting 6](./syllabus.md#meeting-6) | [chapter 8 & 9](./summaries/chapter8.md) |
+| Layered, pipeline, and microkernal styles | TBD | 10-12 | 133-161 (29) | [meeting 7](./syllabus.md#meeting-7) | [chapter 10-12](./summaries/chapter10.md) |
 
 **Meeting Room:** Find the meeting link in the calendar invite
 
