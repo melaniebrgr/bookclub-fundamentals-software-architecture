@@ -81,3 +81,9 @@
 
 - "Lesson 73 - Architecture Fitness Functions", [video](https://developertoarchitect.com/lessons/lesson73.html)
 - "Architectural Quanta and Granularity", [chapter](./assets/ch4-quanta.pdf)
+
+## Meeting 6
+
+### Required Material:
+
+- Chapters 8 - 9
