@@ -87,3 +87,9 @@
 ### Required Material:
 
 - Chapters 8 - 9
+
+## Meeting 6
+
+### Required Material:
+
+- Chapters 10 - 12
