@@ -2,7 +2,7 @@
 
 ## Meeting 2
 
-### Required Material:
+### Reading:
 
 - Chapters 1 - 2
 
@@ -32,7 +32,7 @@
 
 ## Meeting 3
 
-### Required Material:
+### Reading:
 
 - Chapter 3
 
@@ -61,7 +61,7 @@
 
 ## Meeting 4
 
-### Required Material:
+### Reading:
 
 - Chapters 4 - 5
 - Take a look at Part3, the app we will be discussing in the meeting, [website](https://part3.ca/)
@@ -73,7 +73,7 @@
 
 ## Meeting 5
 
-### Required Material:
+### Reading:
 
 - Chapters 6 - 7
 
@@ -84,7 +84,7 @@
 
 ## Meeting 6
 
-### Required Material:
+### Reading:
 
 - Chapters 8 - 9
 
@@ -97,6 +97,6 @@ Other questions
 
 ## Meeting 7
 
-### Required Material:
+### Reading:
 
 - Chapters 10 - 12
