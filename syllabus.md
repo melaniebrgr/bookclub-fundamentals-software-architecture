@@ -42,7 +42,7 @@
 - "Clean Architecture", [excerpts on cohesion and coupling](https://drive.google.com/file/d/1HaeK71jRFpkvDqqwmnKfP28n50re4iTD/view?usp=sharing)
 - Modularity metrics (for playing with the numbers), [spreadsheet](https://github.com/melaniebrgr/bookclub-fundamentals-software-architecture/blob/main/assets/ch3-modularity-metrics.numbers)
 
-### Pre-meeting preparatory questions:
+### Questions to consider:
 - [ ] How would you define a module in your own words? What is the difference between a module and a component?
 - [ ] What is the “modular unit” of Javascript?
 - [ ] How would you define cohesion? 
@@ -88,7 +88,14 @@
 
 - Chapters 8 - 9
 
-## Meeting 6
+### Questions to consider:
+- [ ] What is your definition of a component? Do you agree with authors or have a slightly different view?
+Other questions
+- [ ] In the chapter the author’s describe two types of top level partitioning, technical and domain. In your experience, is there one you’ve encountered more frequently? If so, why do you think that is the case?
+- [ ] Are you agnostic or do you have a preference for one over the other
+- [ ] What are the things to keep in mind when deciding on one over the other?
+
+## Meeting 7
 
 ### Required Material:
 
