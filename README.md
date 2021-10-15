@@ -17,12 +17,12 @@ As you read, if there's something you'd like to discuss in greater depth, you ca
 | Modularity metrics | Mon. Feb 22, 13:30 EST/19:30 CET | 3 | 37 - 53 (17) | [meeting 3](./syllabus.md#meeting-3) | [chapter 3](./summaries/chapter3.md) |
 | Defining and identifying architectural characteristics | Tues. March 16, 14:00 EST/19:00 CET | 4, 5 | 55-75 (21) | [meeting 4](./syllabus.md#meeting-4) | [chapter 4 & 5](./summaries/chapter4-5.md) |
 | Measuring and scope of architectural characteristics | Tues. March 30, 15:00 EST/21:00 CET | 6, 7 | 77-98 (22) | [meeting 5](./syllabus.md#meeting-5) | [chapter 6 & 7](./summaries/chapter6-7.md) |
-| Component design and organization | Tues. April 13, 15:00 EST/21:00 CET | 8, 9 | 99-132 (32) | [meeting 6](./syllabus.md#meeting-6) | [chapter 8 & 9](./summaries/chapter8.md) |
-| Layered, pipeline, and microkernal styles | Mon. April 26, 14:00 EST/20:00 CET | 10-12 | 133-161 (29) | [meeting 7](./syllabus.md#meeting-7) | [chapter 10-12](./summaries/chapter10.md) |
-| Service and event-driven styles | Wed. May 19, 15:00 EST/21:00 CET | 13, 14 | 163-209 (46) | [meeting 8](./syllabus.md#meeting-8) | [chapter 13 & 14](./summaries/chapter13.md) |
-| Space, orchestration and microservice styles | Tues. June 1, 2:30 EST/8:30 CET | 15-17 | 211-265 (54) | [meeting 9](./syllabus.md#meeting-9) | [chapter 15-17](./summaries/chapter15.md) |
-| Choosing and presenting styles | Tues. June 15, 2:30 EST/8:30 CET | 18-21 | 267-324 (57) | [meeting 10](./syllabus.md#meeting-10) | [chapter 18-21](./summaries/chapter18.md) |
-| Soft skills | Mon. June 28, 2:00 EST/8:00 CET | 22-24 | 325-372 (47) | [meeting 11](./syllabus.md#meeting-11) | [chapter 22-24](./summaries/chapter22.md) |
+| Component design and organization | Tues. April 13, 15:00 EST/21:00 CET | 8, 9 | 99-132 (32) | [meeting 6](./syllabus.md#meeting-6) | [chapter 8 & 9](./summaries/chapter8-9.md) |
+| Layered, pipeline, and microkernal styles | Mon. April 26, 14:00 EST/20:00 CET | 10-12 | 133-161 (29) | [meeting 7](./syllabus.md#meeting-7) | [chapter 10-12](./summaries/chapter10-12.md) |
+| Service and event-driven styles | Wed. May 19, 15:00 EST/21:00 CET | 13, 14 | 163-209 (46) | [meeting 8](./syllabus.md#meeting-8) | [chapter 13 & 14](./summaries/chapter13-14.md) |
+| Space, orchestration and microservice styles | Tues. June 1, 2:30 EST/8:30 CET | 15-17 | 211-265 (54) | [meeting 9](./syllabus.md#meeting-9) | [chapter 15-17](./summaries/chapter15-17.md) |
+| Choosing and presenting styles | Tues. June 15, 2:30 EST/8:30 CET | 18-21 | 267-324 (57) | [meeting 10](./syllabus.md#meeting-10) | [chapter 18-21](./summaries/chapter18-21.md) |
+| Soft skills | Mon. June 28, 2:00 EST/8:00 CET | 22-24 | 325-372 (47) | [meeting 11](./syllabus.md#meeting-11) | [chapter 22-24](./summaries/chapter22-24.md) |
 
 **Meeting Room:** Find the meeting link in the calendar invite
 
