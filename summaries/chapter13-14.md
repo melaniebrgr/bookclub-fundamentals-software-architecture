@@ -49,8 +49,8 @@ Cons:
 **Mediator:** “A centrally managed message delivery”. Multiple mediators maybe involved. The event processor always communicates back to the mediator who decides what to do next. The mediator can take a corrective action if there’s a failure. Note that not all events/processors are the same and have different complexities that should impact the decision of which tech to use for the central mediator.
 
 Pros:
-- Visibility into the system and failure handling
+- Performance (high parallel processing), scalability, fault-tolerance
 
 Cons:
-- Less scalable, performant
-- More complex workflow modelling
+- Involves complex workflow modelling
+- Visibility into the system and failure handling
