@@ -28,6 +28,7 @@ Pros:
 - Good for short timelines and tight budgets
 - Ideal for small, simple applications
 - Devs with a specific skillset can be immediately productive
+
 Cons:
 - Tends to reinforce a particular skillset, limiting growth
 - Lowered agility due to reliance on others to complete features
@@ -50,6 +51,7 @@ Question: The authors describe this as a monolithic style, is there no scenarios
 Pros:
 - Simple to understand and low cost
 - Ideal for one-way processing tasks
+
 Cons:
 - Distributed as a monolith, it has the same limitations of monoliths: low fault tolerance, low scalability, low elasticity
 
